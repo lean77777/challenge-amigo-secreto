@@ -27,7 +27,7 @@
 * Luego, click en "Download ZIP".
 
 ## 🛠️ Abre y ejecuta el proyecto
-_Una vez descargado el proyecto, entrar al archivo index.html dentro de la carpeta descargada. Hacer doble click, en index.html y se desplegará en el navegador de internet predeterminado la aplicación web con todas sus funcionalidades._
+_Una vez descargado el proyecto .ZIP, hacer click con el botón derecho del mouse, seleccionar la opción "Extraer aquí", ingresar a la carpeta recientemente extraida, entrar al archivo index.html, hacer doble click en index.html y se desplegará, en el navegador de internet predeterminado, la aplicación web con todas sus funcionalidades._
 
 ## 📚 Autor
 Por [lean77777](https://github.com/lean77777) 😊
